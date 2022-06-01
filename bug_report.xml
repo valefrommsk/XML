@@ -1,1 +1,17 @@
+<bug>
+<Title>Нажатие кнопки 'Перейти в каталог' на главной странице не перенаправляет на страницу Каталога</Title>
+<STR>
+1. Зайти на главную страницу сайта (ссылка_на_сайт)
+2. Нажать кнопку Каталог
+</STR>	   
+<Enviroment>
+OS: Windows 10 x64 build 19043
+Browser Google Chrome v96.0.4664.45 x64
+</Enviroment>
+<Component>Кнопка Каталог</Component>
+<Actual Result>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</ActualResult>
+<ExpectedResult>Нажатие кнопки Каталог перенаправляет на страницу Каталога</ExpectedResult>
+<Severity>Critical</Severity>
+<Priority>High</Priority>
+</bug>
 
