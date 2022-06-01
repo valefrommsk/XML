@@ -9,7 +9,7 @@ OS: Windows 10 x64 build 19043
 Browser Google Chrome v96.0.4664.45 x64
 </Enviroment>
 <Component>Кнопка Каталог</Component>
-<Actual Result>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</ActualResult>
+<ActualResult>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</ActualResult>
 <ExpectedResult>Нажатие кнопки Каталог перенаправляет на страницу Каталога</ExpectedResult>
 <Severity>Critical</Severity>
 <Priority>High</Priority>
